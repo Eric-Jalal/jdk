@@ -1,4 +1,4 @@
----
+```
 # Copyright (c) 1995, 2024, Oracle and/or its affiliates. All rights reserved.
 # DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
 #
@@ -24,7 +24,7 @@
 title: 'JDB(1) JDK @@VERSION_SHORT@@ | JDK Commands'
 date: @@COPYRIGHT_YEAR@@
 lang: en
----
+```
 
 ## Name
 
